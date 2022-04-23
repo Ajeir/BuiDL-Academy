@@ -1,5 +1,5 @@
 # BuiDL-Academy
-This is an NFT launchpad site project built to learn web 3 
+BuiDL Academy is an NFT minting site project. Its a single page react app which allows you to connect a web 3 wallet and mint an NFT. 
 
 ![Academy Screen shot](dogo.png)
 
